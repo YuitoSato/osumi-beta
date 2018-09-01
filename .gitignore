@@ -4,5 +4,6 @@ package-lock.json
 package.json
 truffle-config.js
 truffle.js
+truffle-secret.js
 .python-version
 build/
